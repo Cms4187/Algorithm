@@ -42,7 +42,6 @@ for i in M:
             Y -= 1
 
 print("X: ", X, ", Y: ", Y)
-    
 
 
 #답안지
