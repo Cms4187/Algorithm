@@ -1,3 +1,3 @@
 알고리즘 공부
 
-[Google](https://google.com, "google link")
+[1110번](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cycle.py, "google link")
