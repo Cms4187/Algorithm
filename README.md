@@ -1,5 +1,5 @@
-알고리즘 공부
-
+<h1>알고리즘 공부</h1>
+<hr>
 </br><h2>브론즈</h2>
 
 [1110번 - 더하기 사이클](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cycle.py)</br>
