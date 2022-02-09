@@ -7,7 +7,6 @@
 [2444번 - 피라미드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Pyramid.py)</br>
 
 <hr>
-
 </br><h2>실버</h2>
 
 [2666번 - 바이러스](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
