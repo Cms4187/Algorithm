@@ -6,7 +6,7 @@
 [2052번 - 지수연산](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cal.py)</br>
 [2444번 - 피라미드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Pyramid.py)</br>
 
-=================================================================
+<hr>
 
 </br><h2>실버</h2>
 
