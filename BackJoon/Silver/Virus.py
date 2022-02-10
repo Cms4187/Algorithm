@@ -22,10 +22,13 @@ connect = [0]*(com_num+1)
 def algorithm(visit):
     global virus_count
     connect[visit] = 1
+    #
     for i in link[visit]:
         if connect[i] == 0:
             algorithm(i)
             virus_count += 1
     
+#예제에서 1번 컴퓨터에서 시작이므로 1을 넣어줌
 algorithm(1)
+print(link)
 print(virus_count)
