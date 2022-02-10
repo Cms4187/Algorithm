@@ -11,6 +11,7 @@
 [2577번 - 숫자의 갯수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Count.py)</br>
 [15552번 - 빠른 A+B](https://github.com/Cms4187/Algorithm/commit/f13c62704c16a5cae140f8a7eed454ad4e9a759a)</br>
 [11720번 - 숫자의 합](https://github.com/Cms4187/Algorithm/commit/cc0663aa9f001fd90fae4b0d7a7e1fe438107ddb)</br>
+[2562번 - 최댓값 구하기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Max_Number.py)</br>
 <hr>
 </br><h2>실버</h2>
 
