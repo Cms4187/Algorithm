@@ -5,7 +5,7 @@ count = 0
 
 #N이 0보다 크면 계속 반복
 while (0 <= N):
-    #N이 5로 나누어지면 5로 나누고 몫을 count에 더해주고 출력 후끝냄
+    #N이 5로 나누어지면 5로 나누고 몫을 count에 더해주고 출력 후 끝냄
     if N % 5 == 0:
         count += N // 5
         print(count)
