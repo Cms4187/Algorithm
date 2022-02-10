@@ -7,7 +7,9 @@
 [1110번 - 더하기 사이클](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cycle.py)</br>
 [2052번 - 지수연산](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cal.py)</br>
 [2444번 - 피라미드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Pyramid.py)</br>
-[1673번 - 치킨 쿠폰](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Chicken_Coupon.py)
+[1673번 - 치킨 쿠폰](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Chicken_Coupon.py)</br>
+[2577번 - 숫자의 갯수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Count.py)</br>
+[15552번 - 빠른 A+B](https://github.com/Cms4187/Algorithm/commit/f13c62704c16a5cae140f8a7eed454ad4e9a759a)</br>
 
 <hr>
 </br><h2>실버</h2>
