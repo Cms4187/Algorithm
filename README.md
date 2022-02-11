@@ -25,6 +25,7 @@
 </br><h2>실버</h2>
 
 [1260번 - DFS와 BFS](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/DFS_BFS.py)</br>
+[1427번 - 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting.py)</br>
 [2666번 - 바이러스](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
 
 
