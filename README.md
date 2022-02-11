@@ -16,6 +16,7 @@
 [2577번 - 숫자의 갯수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Count.py)</br>
 [2869번 - 달팽이는 올라가고 싶다](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Up_Snail.py)</br>
 [4344번 - 평균은 넘겠지](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Over_Avg.py)</br>
+[7568번 - 덩치](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Self_Number.py)</br>
 [8958번 - OX 퀴즈](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/OXQuiz.py)</br>
 [11720번 - 숫자의 합](https://github.com/Cms4187/Algorithm/commit/cc0663aa9f001fd90fae4b0d7a7e1fe438107ddb)</br>
 [15552번 - 빠른 A+B](https://github.com/Cms4187/Algorithm/commit/f13c62704c16a5cae140f8a7eed454ad4e9a759a)</br>
