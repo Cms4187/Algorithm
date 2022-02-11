@@ -22,16 +22,20 @@ for _ in range(M):
     link[First].append(Second)
     link[Second].append(First)
 
+#DFS 함수
 #그래프가 적힐 리스트(graph)와 방문한 곳을 처리할 리스트(visited)를 사용
 def dfs(graph, v, visited):
-    visited[v] = True #해당 노드를 방문 처리, 시작 노드를 1로 해 1번 노드를 방문 처리함
+    visited[v] = True #해당 노드를 방문 처리, 처음에는 시작 노드를 입력받은 V로 지정해 V번 노드를 방문 처리함
     print(v, end=' ') #방문한 노드 출력
     for i in graph[v]: #현재 확인하고 있는 노드(스택의 최상단 노드)와 연결된 다른 노드를 하나씩 방문
         if visited[i] == 0: #인접 노드 i 가 방문되지 않은 상태라면
             dfs(graph, i, visited) #방문하고 출력하게끔 i를 넣어준다. 
 
-#DFS, 정점 번호 넣고 함수 호출해 연산
-dfs(link, 1, visited)
+#BFS함수
+
+
+#DFS, 그래프(link리스트), 시작할 정점 번호(V), 방문 정보를 저장할 리스트(visited) 넣고 함수 호출해 연산
+dfs(link, V, visited)
 
 #BFS
 
