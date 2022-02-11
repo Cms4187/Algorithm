@@ -7,4 +7,4 @@ for i in range(N):
 NL.sort()
 
 for j in range(N):
-    print(NL[i])
+    print(NL[j])
