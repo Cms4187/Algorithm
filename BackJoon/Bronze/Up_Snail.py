@@ -25,7 +25,7 @@ import math
 #3) (V-A) / (A-B) = Day
 
 A, B, V = map(int, input().split())
-#Day-1 번 반복해야 하므로 식에 + 1을 해줘야 Day번 반복한게 된다.
+#Day-1 번 반복해야 하므로 식에 + 1을 해줘야 Day번 반복한게 된다. 
 Day = (V - A) / (A - B) + 1
 print(math.ceil(Day))
 
