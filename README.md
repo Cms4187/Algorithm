@@ -11,6 +11,7 @@
 [2052번 - 지수연산](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cal.py)</br>
 [2444번 - 피라미드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Pyramid.py)</br>
 [2562번 - 최댓값 구하기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Max_Number.py)</br>
+[2750번 - 수 정렬하기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Sort.py)</br>
 [2839번 - 설탕 배달](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Sugar.py)</br>
 [2577번 - 숫자의 갯수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Count.py)</br>
 [4344번 - 평균은 넘겠지](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Over_Avg.py)</br>
