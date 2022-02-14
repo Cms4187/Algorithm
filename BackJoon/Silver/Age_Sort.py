@@ -14,9 +14,3 @@ for i in range(N):
 Info.sort(key=lambda x:x[0])
 for i in Info:
     print(i[0],i[1])
-
-
-
-
-
-
