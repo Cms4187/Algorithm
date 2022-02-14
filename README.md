@@ -29,6 +29,7 @@
 [1427번 - 소트인사이드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting.py)</br>
 [2666번 - 바이러스](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
 [2751번 - 오름차순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting2.py)</br>
+[10814번 - 나이순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Age_Sort.py)</br>
 
 
 <hr>
