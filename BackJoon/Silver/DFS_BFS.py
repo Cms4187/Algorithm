@@ -27,7 +27,9 @@ def bfs(graph, v, visited):
 #정점 갯수 N, 간선 갯수 M, 탐색을 시작할 정점 번호 V
 N, M, V = map(int, input().split())
 
+#정점간 연결 정보를 저장해둘 리스트
 link = [[] for _ in range(N+1)]
+
 #각 노드가 방문된 정보를 표현하는 1차원 리스트 -> visited
 #처음엔 하나도 방문하지 않았어야하니 False(0)으로 표현
 #노드 시작이 1이므로 헷갈리지 않게 리스트의 0번 index가 아닌 1번 index부터
