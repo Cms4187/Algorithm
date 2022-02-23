@@ -31,7 +31,7 @@ def bfs(X, Y):
         #print(X, Y)
         #현재있는 위치에서 네 가지 방향(상, 하, 좌, 우)로 좌표를 확인
         for m in range(4):
-            #move_x, move_y 값이 들어있는 값 순서대로 따지면 좌, 우, 상, 하임
+            #move_x, move_y 값이 들어있는 값 순서대로 좌, 우, 상, 하임
             next_x, next_y = X+move_x[m], Y+move_y[m]
             #print(next_x, next_y)
 
