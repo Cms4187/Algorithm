@@ -30,7 +30,9 @@
 [1427번 - 소트인사이드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting.py)</br>
 [1475번 - 방 번호](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Room_Number.py)</br>
 [1978번 - 소수 찾기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/PrimeNumber.py)</br>
-[2666번 - 바이러스(DFS로 풀었음)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
+[2178번 - 미로 찾기(BFS)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Maze.py)</br>
+[2666번 - 바이러스(DFS)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
+[2667번 - 단지 번호 붙이기)()</br>
 [2751번 - 오름차순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting2.py)</br>
 [10814번 - 나이순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Age_Sort.py)</br>
 [11170번 - 0의 개수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Count_Zero.py)</br>
