@@ -17,7 +17,7 @@ def bfs(graph, v, visited):
     queue = deque([v]) #시작 노드를 먼저 큐에 넣어줌
     visited[v] = True #해당 노드를 방문 처리, 처음에는 시작 노드를 입력받은 V(=v)로 지정해 V번 노드를 방문 처리함
     while queue: #큐에 노드를 넣고 빼면서 노드가 전부 방문될때까지 반복
-        v = queue.popleft() #큐에서 popleft를 이용해 가장 먼저 들어온 노드를 v값에 넣어줌
+        v = queue.popleft() #큐에서 제일 왼쪽 값을 빼서 v값에 넣어줌
         print(v, end=" ") #popleft로 꺼낸 노드를 출력
         for i in graph[v]: #아직 방문하지 않은 인접한 노드를 큐에 넣어줌
             if visited[i] == 0: #인접 노드 i가 방문되지 않았으면 => if not visited[i]와 같은 구문
