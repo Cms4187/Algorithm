@@ -65,7 +65,9 @@ for i in Box:
             print(-1)
             #break은 반복문만 중단시켜서 exit(0)으로 아얘 끝내주어야함
             exit(0)
-    #다 익었다면 가장 큰 값을 day에 넣어줌 (최종 일수가 됨)
+    #다 익었다면 모든 행 중 가장 큰 값을 day에 넣어줌 (최종 일수가 됨)
     day = max(day, max(i))
+    print(day)
 
+#값을 입력받은 첫 날을 제외해야 하므로 1을 빼주어야 함
 print(day-1)
