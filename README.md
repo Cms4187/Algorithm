@@ -44,4 +44,5 @@
 
 </br><h2>골드</h2>
 
+[7576번 - 토마토](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Gold/Tomato.py)</br>
 <hr>
