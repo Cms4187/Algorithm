@@ -1,10 +1,35 @@
 #자료구조 - 스택
 
-N = input()
+import sys
 
-st = []
+N = int(sys.stdin.readline())
+MyStack = []
 
-if (1 <= int(N)) and (int(N) <= 100000):
-    for _ in range(4):
-    #for _ in range(int(N)):
-        print(N)
+for _ in range(N):
+    cmd = sys.stdin.readline()
+    if "push" in cmd:
+        value = cmd[5:]
+        MyStack.append(int(value))
+
+    elif "pop" in cmd:
+        if len(MyStack) < 1:
+            print(-1)
+        else:
+            pop_value = MyStack[-1]
+            print(pop_value)
+            MyStack.pop(-1)
+
+    elif "size" in cmd:
+        print(len(MyStack))
+
+    elif "top" in cmd:
+        if len(MyStack) < 1:
+            print(-1)
+        else:
+            print(MyStack[-1])
+
+    elif "empty" in cmd:
+        if len(MyStack) < 1:
+            print(1)
+        else:
+            print(0)
