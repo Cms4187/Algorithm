@@ -34,6 +34,7 @@
 [2666번 - 바이러스(DFS)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Virus.py)</br>
 [2667번 - 단지 번호 붙이기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Apart_Number.py)</br>
 [2751번 - 오름차순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting2.py)</br>
+[9012번 - 괄호](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Parenthesis.py)</br>
 [10814번 - 나이순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Age_Sort.py)</br>
 [10828번 - 스택](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Stack.py)</br>
 [11170번 - 0의 개수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Count_Zero.py)</br>
