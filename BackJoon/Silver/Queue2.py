@@ -10,7 +10,6 @@ for _ in range(N):
     if "push" in cmd:
         push_val = cmd[5:]
         que.append(push_val)
-        print(que)
 
     elif "pop" in cmd:
         if not que:
