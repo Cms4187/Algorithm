@@ -40,6 +40,7 @@
 [11170번 - 0의 개수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Count_Zero.py)</br>
 [11399번 - ATM(그리디)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/ATM.py)</br>
 [11725번 - 트리의 부모 찾기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Parent_Tree.py)</br>
+[18258번 - 큐2](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Queue2.py)</br>
 
 
 <hr>
