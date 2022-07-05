@@ -14,19 +14,18 @@ while Peo:
     if del_k >= len(Peo):
         del_k = del_k % len(Peo)
 
-    #pop_Peo.append(Peo[del_k])
-    pop_Peo.append(str(Peo[del_k]))
+    pop_Peo.append(Peo[del_k])
     Peo.pop(del_k)
 
-# print("<", end="")
+print("<", end="")
 
-# for i in range(len(pop_Peo)):
-#     if i == len(pop_Peo)-1:
-#         print(pop_Peo[i], end="")
-#         break
-#     print(pop_Peo[i], end=", ")
+for i in range(len(pop_Peo)):
+    if i == len(pop_Peo)-1:
+        print(pop_Peo[i], end="")
+        break
+    print(pop_Peo[i], end=", ")
 
-# print(">", end="")
+print(">", end="")
 
 #17줄 append할 때 str형으로 append하고, join함수써서 출력시 1줄로 출력 가능
 print("<",', '.join(pop_Peo),">", sep="")
