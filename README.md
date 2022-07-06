@@ -39,6 +39,7 @@
 [9012번 - 괄호](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Parenthesis.py)</br>
 [10814번 - 나이순 정렬](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Age_Sort.py)</br>
 [10828번 - 스택](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Stack.py)</br>
+[10866번 - 덱](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/dack.py)</br>
 [11170번 - 0의 개수](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Count_Zero.py)</br>
 [11399번 - ATM(그리디)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/ATM.py)</br>
 [11725번 - 트리의 부모 찾기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Parent_Tree.py)</br>
