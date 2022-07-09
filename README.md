@@ -30,6 +30,7 @@
 [1292번 - 쉬운 계산](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Easy_Problem.py)</br>
 [1427번 - 소트인사이드](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Sorting.py)</br>
 [1475번 - 방 번호](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Room_Number.py)</br>
+[1874번 - 스택 수열](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Stack_Sequence.py)</br>
 [1978번 - 소수 찾기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/PrimeNumber.py)</br>
 [2164번 - 카드2](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Card2.py)</br>
 [2178번 - 미로 찾기(BFS)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Silver/Maze.py)</br>
