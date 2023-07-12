@@ -20,6 +20,7 @@ public class DFSNBPS {
         
 
         //index번호 안 헷갈리게 갯수 +1 만큼 해주어 더 크게 만들어줌
+        //백준 제출시 arr, visitNode둘다 line+1말고 point+1로 해야함
         int[][] arr = new int[point+1][line+1];
         boolean[] visitNode = new boolean[line+1];
 
@@ -36,24 +37,24 @@ public class DFSNBPS {
         }
         // System.out.println(Arrays.deepToString(arr));
 
-        DFS(start, line, arr, visitNode);
+        DFS(start, point, arr, visitNode);
         System.out.println();
         //BFS를 위해 방문 노드 체크 초기화
         Arrays.fill(visitNode, false);
         // visitNode = new boolean[line+1];
-        BFS(start, line, arr, visitNode);
+        BFS(start, point, arr, visitNode);
 
     }
 
-    static void DFS(int start, int line, int[][] arr, boolean[] visitNode){
+    static void DFS(int start, int point, int[][] arr, boolean[] visitNode){
         //방문한 노드 체크 및 출력 후 다음껄로 이동
         visitNode[start] = true;
         System.out.print(start + " ");
 
-        for(int i=1; i<=line; i++){
+        for(int i=0; i<=point; i++){
             //만약 배열[노드][연결노드]가 1인데 체크 X면 i노드로 이동, 재귀
             if(arr[start][i] == 1 && visitNode[i] == false){
-                DFS(i, line, arr, visitNode);
+                DFS(i, point, arr, visitNode);
             }
         }
     }
@@ -63,7 +64,7 @@ public class DFSNBPS {
     //while문을 돌려 큐가 차있다면 계속 반복시킴. while문 내에서는
     //변수에 정점을 저장하고 큐에서 삭제 후 출력, 그리고 for문을 돌려
     //if문 조건이 성립하면 큐에 넣음(큐에 값이 생겨 while문 반복)
-    static void BFS(int start, int line, int[][] arr, boolean[] visitNode){
+    static void BFS(int start, int point, int[][] arr, boolean[] visitNode){
         Queue<Integer> que =new LinkedList<>();
 
         visitNode[start] = true;
@@ -78,7 +79,7 @@ public class DFSNBPS {
             int node = que.poll();
             System.out.print(node + " ");
             //간선 길이만큼 반복
-            for(int i=1; i<=line; i++){
+            for(int i=1; i<=point; i++){
                 //만약 i가 지금 노드가 아니고, 체크가 안되어있고,
                 //방문한 노드의 간선이 연결되어 있으면 큐에 넣고 체크하고 반복
                 if(i != node && visitNode[i] == false && arr[node][i] == 1){
