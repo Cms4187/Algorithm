@@ -5,7 +5,7 @@
 <h2>그래프 탐색</h2>
 
 [1260번 - DFS와 BFS](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Graph/DFSNBPS.java)</br>
-
+[11725번 - 트리부모찾기](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Graph/ParentTree.java)</br>
 <hr>
 <h2>브론즈</h2>
 
