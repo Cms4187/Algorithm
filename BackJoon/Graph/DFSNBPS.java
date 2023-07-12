@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class DFSNBPS {
@@ -38,7 +40,8 @@ public class DFSNBPS {
         System.out.println();
         //BFS를 위해 방문 노드 체크 초기화
         Arrays.fill(visitNode, false);
-        // BFS();
+        // visitNode = new boolean[line+1];
+        BFS(start, line, arr, visitNode);
 
     }
 
@@ -55,7 +58,35 @@ public class DFSNBPS {
         }
     }
 
+    //https://m.blog.naver.com/gluestuck/221911466341 설명 링크
+    //BFS코드 방식: 큐를 생성하고 시작 정점을 체크, 큐에 시작 정점을 넣고
+    //while문을 돌려 큐가 차있다면 계속 반복시킴. while문 내에서는
+    //변수에 정점을 저장하고 큐에서 삭제 후 출력, 그리고 for문을 돌려
+    //if문 조건이 성립하면 큐에 넣음(큐에 값이 생겨 while문 반복)
     static void BFS(int start, int line, int[][] arr, boolean[] visitNode){
+        Queue<Integer> que =new LinkedList<>();
 
+        visitNode[start] = true;
+        
+        //먼저 시작 정점 큐에 넣음
+        que.add(start);
+
+        //큐가 비어있지 않으면 계속
+        // while(que.size() > 0){
+        while(!que.isEmpty()){
+            //방문한 노드를 변수에 저장해두고 큐에서 삭제
+            int node = que.poll();
+            System.out.print(node + " ");
+            //간선 길이만큼 반복
+            for(int i=1; i<=line; i++){
+                //만약 i가 지금 노드가 아니고, 체크가 안되어있고,
+                //방문한 노드의 간선이 연결되어 있으면 큐에 넣고 체크하고 반복
+                if(i != node && visitNode[i] == false && arr[node][i] == 1){
+                    que.add(i);
+                    visitNode[i] = true;
+                }
+            }
+        }
     }
+
 }
