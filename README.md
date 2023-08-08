@@ -3,7 +3,7 @@
 
 <h2>그리디</h2>
 
-[11399번 - ATM](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cycle.py)</br>
+[11399번 - ATM](https://github.com/Cms4187/Algorithm/blob/main/Greedy/ATM.java)</br>
 (https://github.com/Cms4187/Algorithm/blob/main/Greedy/ATM.java)</br>
 
 <hr>
