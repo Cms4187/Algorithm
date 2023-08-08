@@ -1,6 +1,11 @@
 <h1>알고리즘 공부</h1>
 <br>
 
+<h2>그리디</h2>
+
+[1260번 - DFS와 BFS]
+(https://github.com/Cms4187/Algorithm/blob/main/Greedy/ATM.java)</br>
+
 <hr>
 <h2>그래프 탐색</h2>
 
