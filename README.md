@@ -3,8 +3,8 @@
 
 <h2>그리디</h2>
 
-[1260번 - DFS와 BFS]
-(https://github.com/Cms4187/Algorithm/blob/main/Greedy/ATM.java)</br>
+[11399번 ATM]
+([https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Graph/ParentTree.java](https://github.com/Cms4187/Algorithm/blob/main/Greedy/ATM.java))</br>
 
 <hr>
 <h2>그래프 탐색</h2>
