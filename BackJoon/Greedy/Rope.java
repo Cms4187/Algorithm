@@ -13,6 +13,17 @@ import java.util.*;
 
 //출력: 첫째 줄에 답 출력
 
+//Ex) N=5, 로프는 [12, 20, 30, 33, 35] 가 있다.
+//큰 값부터 빼면서 최대 중량을 계산해야 한다.
+//1. 35가 꺼내지면 최대 중량은 35
+//2. 33이 꺼내지면 최대 중량은 33*2 = 66
+//3. 30이 꺼내지면 최대 중량은 30*3 = 90
+//4. 20이 꺼내지면 최대 중량은 20*4 = 80
+//5. 12가 꺼내지면 최대 중량은 12*5 = 60
+
+//따라서 30이 꺼내진 90이 최대 중량이 된다.
+
+
 public class Rope {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
