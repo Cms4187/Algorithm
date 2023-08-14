@@ -1,6 +1,7 @@
 <h1>알고리즘 공부</h1>
 <br>
 
+<h1>코딩테스트- Java</h1>
 <h2>그리디</h2>
 
 
@@ -18,6 +19,7 @@
 
 
 <hr><hr><hr><hr><hr>
+<h1>코딩테스트- Python</h1>
 <h2>브론즈</h2>
 
 [1110번 - 더하기 사이클](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Bronze/Number_Cycle.py)</br>
