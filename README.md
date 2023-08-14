@@ -6,6 +6,7 @@
 [11399번 - ATM](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/ATM.java)</br>
 [20300번 - 서강근육맨](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Muscle.java)</br>
 [2217번 - 로프](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Rope.java)</br>
+[20365번 - 블로그2](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Blog2.java)</br>
 <hr>
 <h2>그래프 탐색</h2>
 
