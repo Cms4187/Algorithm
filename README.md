@@ -4,13 +4,18 @@
 <h1>코딩테스트- Java</h1>
 <h2>그리디</h2>
 
-
 [20300번 - 서강근육맨(실버3)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Muscle.java)</br>
 [20365번 - 블로그2(실버3)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Blog2.java)</br>
 [11399번 - ATM(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/ATM.java)</br>
 [2217번 - 로프(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Rope.java)</br>
 [1343번 - 폴리오미노(실버5)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Greedy/Polyomino.java)</br>
 <hr>
+
+<h2>자료구조</h2>
+
+[10828번 - 스택(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Stack.java)</br>
+<hr>
+
 <h2>그래프 탐색</h2>
 
 [1260번 - DFS와 BFS(실버2)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Graph/DFSNBPS.java)</br>
