@@ -14,6 +14,7 @@
 <h2>자료구조</h2>
 
 [10828번 - 스택(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Stack.java)</br>
+[9012번 - 괄호(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Bracket.java)</br>
 <hr>
 
 <h2>그래프 탐색</h2>
