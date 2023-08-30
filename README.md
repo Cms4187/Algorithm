@@ -16,7 +16,7 @@
 [10828번 - 스택(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Stack.java)</br>
 [9012번 - 괄호(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Bracket.java)</br>
 [1158번 - 요세푸스(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Josephus.java)</br>
-[10866번 - 덱(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Josephus.java)</br>
+[10866번 - 덱(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Deck.java)</br>
 <hr>
 
 <h2>그래프 탐색</h2>
