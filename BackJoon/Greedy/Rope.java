@@ -52,3 +52,4 @@ public class Rope {
 
         System.out.println(weight);
     }
+}
