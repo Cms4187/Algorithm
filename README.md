@@ -13,7 +13,7 @@
 
 <h2>자료구조</h2>
 
-[2346번 - 풍선 터트리기(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Balloon.java)</br>
+[2346번 - 풍선 터트리기(실버3)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Balloon.java)</br>
 [10828번 - 스택(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Stack.java)</br>
 [9012번 - 괄호(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Bracket.java)</br>
 [1158번 - 요세푸스(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Josephus.java)</br>
