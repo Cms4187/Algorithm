@@ -24,22 +24,23 @@ public class MaxHeap {
         //maxHeap은 큰 값부터 출력해야해서 역순으로 정렬해줌
         PriorityQueue<Integer> max_heap = new PriorityQueue<>(Collections.reverseOrder());
         
-        for(int i=0; i<N; i++){
-            StringTokenizer st = new StringTokenizer(br.readLine());
-            int Input_Num = Integer.parseInt(st.nextToken());
-            //만약 0이 입력되면 힙에서 최댓값 출력하면서 최댓값 지우기
-            //아니라면 힙에 값 추가
-            if(Input_Num == 0){
-                if(max_heap.isEmpty()){
-                    System.out.println(0);
+        if(1 <= N && N <= 100000){
+            for(int i=0; i<N; i++){
+                StringTokenizer st = new StringTokenizer(br.readLine());
+                int Input_Num = Integer.parseInt(st.nextToken());
+                //만약 0이 입력되면 힙에서 최댓값 출력하면서 최댓값 지우기
+                //아니라면 힙에 값 추가
+                if(Input_Num == 0){
+                    if(max_heap.isEmpty()){
+                        System.out.println(0);
+                    }
+                    else{
+                        System.out.println(max_heap.poll());
+                    }
                 }
-                else{
-                    System.out.println(max_heap.poll());
-                }
+                max_heap.add(Input_Num);
             }
-            max_heap.add(Input_Num);
         }
-            
     }
         //힙에 값이 있다면 계속 출력
         // while(!max_heap.isEmpty()){
