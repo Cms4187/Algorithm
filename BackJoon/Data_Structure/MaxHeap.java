@@ -22,6 +22,10 @@ public class MaxHeap {
         int N = Integer.parseInt(br.readLine());
         //Collections: 객체의 모음, 그룹. reverseOrder로 역순(내림차순) 정렬해줌
         //maxHeap은 큰 값부터 출력해야해서 역순으로 정렬해줌
+        //PriorityQueue: 우선순위 큐. 일반적인 큐(FIFO)의 구조이면서 데이터가 들어온 순서대로
+        //               나가는 것이 아닌 우선순위를 먼저 결정 후 우선순위가 높은 데이터가 먼저 나가는 자료구조
+        //               내부 요소는 힙으로 구성되어 이진트리 구조로 이루어짐
+        //               힙으로 구성되어서 시간 복잡도는 O(NLogN)이다. 우선순위를 중요시해야하는 상황에 쓰인다.
         PriorityQueue<Integer> max_heap = new PriorityQueue<>(Collections.reverseOrder());
         
         if(1 <= N && N <= 100000){
