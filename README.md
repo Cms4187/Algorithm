@@ -13,6 +13,7 @@
 
 <h2>자료구조</h2>
 
+[4358번 - 생태학(실버2)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Ecology.java)</br>
 [11279번 - 최대힙(실버2)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/MaxHeap.java)</br>
 [2346번 - 풍선 터트리기(실버3)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/Balloon.java)</br>
 [1620번 - 나는야 포켓몬 마스터 이다솜(실버4)](https://github.com/Cms4187/Algorithm/blob/main/BackJoon/Data_Structure/PockMaster.java)</br>
